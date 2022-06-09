@@ -1,0 +1,12 @@
+.main-heading {
+    text-align: center;
+    background-color: blue;
+    color: white;
+    font-style: normal;
+    font-variant: normal;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.recipe1 {
+    font-size: 21px;
+}

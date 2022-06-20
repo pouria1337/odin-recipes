@@ -1,4 +1,8 @@
-.imageGS {
-    width: 500px;
+img {
+    width: 200px;
     height: auto;
+}
+
+h2 {
+    font-size: 29px;
 }
